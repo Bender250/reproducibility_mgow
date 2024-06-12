@@ -12,7 +12,7 @@ Possible artifacts include (but are not limited to):
 -   Formal specifications
 -   Build environments (e.g., VMs, Docker containers, configuration scripts)
 
-Artifacts are evaluated by the [artifact review committee](https://web.archive.org/web/20200830173257if_/https://petsymposium.org/artifacts.php#committee). The committee evaluates the artifacts to ensure that they provide an acceptable level of utility, and feedback is given to the authors. Issues considered include software bugs, readability of documentation, and appropriate licensing. After your artifact has been approved by the committee, we will accompany the paper link on [petsymposium.org](https://petsymposium.org/) with a link to the artifact along with an artifact badge so that interested readers can find and use your hard work.
+Artifacts are evaluated by the [artifact review committee](https://web.archive.org/web/20230128001750if_/https://petsymposium.org/artifacts.php#committee). The committee evaluates the artifacts to ensure that they provide an acceptable level of utility, and feedback is given to the authors. Issues considered include software bugs, readability of documentation, and appropriate licensing. After your artifact has been approved by the committee, we will accompany the paper link on [petsymposium.org](https://petsymposium.org/) with a link to the artifact along with an artifact badge so that interested readers can find and use your hard work.
 
 ### Artifact Submission Guidelines
 
