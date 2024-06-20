@@ -4,6 +4,8 @@
 
 Downloaded calls for artifacts from various Security/privacy conferences, for the purpose of studying the evolution of these documents.
 
+Useful source: [https://secartifacts.github.io](https://secartifacts.github.io)
+
 * You can view edits by checking "History"
 * You can see when were certain parts of the text last changed by checking "Blame"
 
@@ -14,4 +16,6 @@ Related work publications
 ## Slides
 
 [Google Slides](https://docs.google.com/presentation/d/1HCR3pAwAn_XFtof7LVLdoeQeIhgHSH5V3G1kTv3Xz6k)
+
+## WIP publication `MGOW_Reproducibility_of_Web_Privacy_Measurements.pdf`
 
